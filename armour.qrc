@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/armour/leather chestplate.png</file>
+        <file>resources/armour/leather hood.png</file>
+    </qresource>
+</RCC>

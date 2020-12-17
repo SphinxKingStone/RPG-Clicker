@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/weapons/simple axe.png</file>
+        <file>resources/weapons/simple dagger.png</file>
+    </qresource>
+</RCC>

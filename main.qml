@@ -10,7 +10,10 @@ Window {
     height: 1334 / 2
     title: qsTr("Hello World")
 
+    ItemDrop {
 
+    }
+/*
     Image {
         source: "resources/armour/hood.png"
         scale: 0.8
@@ -68,4 +71,5 @@ Window {
             }
         }
     }
+    */
 }
